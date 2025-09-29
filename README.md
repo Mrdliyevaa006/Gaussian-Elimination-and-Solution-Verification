@@ -10,7 +10,6 @@ In machine learning models, each feature is assigned a weight, which indicates h
 ## Part 1: Gaussian Elimination from Scratch
 
 ### Steps:
-![Diagram](assets/diagram.png)
 
 1. **Form the Augmented Matrix** – Combine the coefficient matrix (A) with the constants vector (b) → ([A|b]).
 2. **Forward Elimination** – Transform the matrix into an upper triangular form by selecting pivot elements, swapping rows if a pivot is zero, and eliminating the entries below each pivot.
