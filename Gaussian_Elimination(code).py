@@ -1,4 +1,3 @@
-# Math4AI - Programming Assignment 2
 # Systems of Linear Equations & Model Fitting
 
 
@@ -93,3 +92,4 @@ np_b = np.array(b2, dtype=float)
 
 np_solution = np.linalg.solve(np_A, np_b)
 print("Solution (NumPy):", np_solution)
+
